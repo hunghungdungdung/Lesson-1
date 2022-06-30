@@ -1,90 +1,97 @@
 * {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.intro {
-  margin: 100px 400px 75px 150px;
-}
-img {
-  max-width: 100%;
-  max-height: 100%;
-
- }
-.cat1 {
-    border-radius: 50%;
-    height: 40px;
-    width: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-.cat2 {
-    border-radius: 50%;
-    height: 40px;
-    width: 40px;
+  .intro {
+    margin: 100px 400px 75px 150px;
   }
-.cat3 {
-    border-radius: 50%;
-    height: 40px;
-    width: 40px;
-    object-position: 100px 100px;
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  
+   }
+  .cat1 {
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+    }
+  .cat2 {
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+    }
+  .cat3 {
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+      object-position: 100px 100px;
+    }
+  .intro {
+    border-radius: 15px;
+    background:  url(teky1.jpg);
+    image-resolution: 300dpi;
+    background-position: left top;
+    background-repeat: repeat;
+    padding-top: 10px;
+    padding-bottom: 47px;
+    padding-left: 20px;
+    width: 97.5%;
+    height: 200px;
+    font-size: 13px;
   }
-.intro {
-  border-radius: 15px;
-  background:  url(teky1.jpg);
-  image-resolution: 300dpi;
-  background-position: left top;
-  background-repeat: repeat;
-  padding-top: 10px;
-  padding-bottom: 47px;
-  padding-left: 20px;
-  width: 97.5%;
-  height: 200px;
-  font-size: 13px;
-}
-.intro {
-
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(teky1.jpg)
+  .header {
     
-}
-.dki {
-  margin:0;
-  padding:0;
-  font-size:10px;
-  line-height: 30px;
-}
-.passage1 {
-  font-size: 13px;
-  margin: 25px 400px 75px 150px;
-}
-.toolintro {
-  font-size: 13px;
-  margin: 25px 400px 75px 150px;
-}
-.reason {
-  font-size: 13px;
-  margin: 25px 400px 75px 150px;
-}
-.tools {
-  font-size: 13px;
-  margin: 25px 320px 75px 150px;
-}
-.python {
-  width: 160px
-}
-.worldpress {
-  width: 140px;
-}
-.wcyg {
-  font-size: 13px;
-  margin: 25px 400px 75px 150px;
-}
-.row {
-  display: flex;
-}
-.column {
-  flex: 50%;
-}
-.intro {
-  margin: 10px 500px 50px 10px;
-}
-.rules {
-  font-size: 13px;
-  margin: 25px 400px 75px 150px;
-}
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 10px;
+  }
+  .intro {
+  
+      background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(teky1.jpg)
+      
+  }
+  .dki {
+    margin:0;
+    padding:0;
+    font-size:10px;
+    line-height: 30px;
+  }
+  .passage1 {
+    font-size: 13px;
+    margin: 25px 400px 75px 150px;
+  }
+  .toolintro {
+    font-size: 13px;
+    margin: 25px 400px 75px 150px;
+  }
+  .reason {
+    font-size: 13px;
+    margin: 25px 400px 75px 150px;
+  }
+  .tools {
+    font-size: 13px;
+    margin: 25px 320px 75px 150px;
+  }
+  .python {
+    width: 160px
+  }
+  .worldpress {
+    width: 140px;
+  }
+  .wcyg {
+    font-size: 13px;
+    margin: 25px 400px 75px 150px;
+  }
+  .row {
+    display: flex;
+  }
+  .column {
+    flex: 50%;
+  }
+  .intro {
+    margin: 10px 500px 50px 10px;
+  }
+  .rules {
+    font-size: 13px;
+    margin: 25px 400px 75px 150px;
+  }
