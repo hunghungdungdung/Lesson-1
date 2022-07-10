@@ -95,3 +95,35 @@
     font-size: 13px;
     margin: 25px 400px 75px 150px;
   }
+  #menu ul {
+    background-color: #1abc9c;
+    list-style-type: none;
+    text-align: center;
+  }
+  #menu li {
+    color: aliceblue;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+  }
+  #menu a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+  }
+  #menu a:hover {
+    background-color: aqua;
+    
+  }
+  .sub-menu li {
+    display: none;
+  }
+  .sub-menu {
+    display: none;
+    position: absolute;
+  }
+  #menu li:hover .sub-menu {
+    display: block;
+  }
