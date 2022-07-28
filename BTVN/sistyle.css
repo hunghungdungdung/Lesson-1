@@ -1,3 +1,6 @@
+#wrapper {
+  background-image: url(https://www.xtrafondos.com/en/descargar.php?id=6286&resolucion=3840x2160);
+}
 #left {
     height: 900px;
     width: 20%;
@@ -6,20 +9,37 @@
     text-align: center;
     float: left;
     box-shadow: 1px 1px 1px 1px #888888;
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
 }
 #content {
-  height: 900px;
+  height: 443px;
+  width: 50%;
+  margin-bottom: 1.25%;
+  text-align: center;
+  overflow: auto;
+  box-shadow: 1px 1px 1px 1px #888888;
+  padding-left: 15px;
+  text-align: left;
+  padding-top: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: white;
+}
+#footer {
+  height: 400px;
   width: 50%;
   margin-bottom: 5%;
   text-align: center;
   overflow: auto;
   box-shadow: 1px 1px 1px 1px #888888;
-  padding-left: 5px;
-}
-.studyachive {
-  font-size: xx-large;
+  padding-left: 15px;
   text-align: left;
+  padding-top: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: white;
 }
+
 .nap {
     position: relative;
 }
