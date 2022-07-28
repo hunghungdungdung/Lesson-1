@@ -1,0 +1,46 @@
+img {
+    float: left;
+}
+#header {
+    height: 60px;
+    background-color: pink;
+    text-align: center;
+    color: aqua;
+}
+#menu {
+    height: 30px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+
+}
+#left {
+    height: 200px;
+    width: 30%;
+    background-color: chartreuse;
+    text-align: center;
+    color: coral;
+    float: left;
+}
+#content {
+    height: 200px;
+    width: 40%;
+    background-color: darkviolet;
+    text-align: center;
+    color: cornflowerblue;
+    float: left
+}
+#right {
+    height: 200px;
+    width: 30%;
+    background-color: gold;
+    text-align: center;
+    color: greenyellow;
+    overflow: auto;
+}
+#footer {
+    height: 60px;
+    background-color: orangered;
+    text-align: center;
+    color: black;
+}
